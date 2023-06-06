@@ -1,4 +1,4 @@
-# FinalGame
+# CycloneGame
 ## Description
 This is an interactive game, similar to the cyclone arcade game. There are two neopixels that light up green on the CPX board, this is the target area. A blue light will move through all of the neopixels, and the player must use the left button (button A) on the CPX board, to stop the blue light in the target area. 
 
